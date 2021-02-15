@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](img/cara_3_r.jpg?raw=true "Title")
 Currently studying math, physics and data science
 
 <!--
