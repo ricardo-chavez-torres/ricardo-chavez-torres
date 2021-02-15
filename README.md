@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently studying math, physics and data science
+
 <!--
 **ricardo-chavez-torres/ricardo-chavez-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
