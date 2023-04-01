@@ -4,7 +4,9 @@ ricardo-chavez-torres.github.io
 ![Alt text](img/cara_3_r.jpg?raw=true "Title")
 ![Alt text](img/cara_4_r.jpg?raw=true "Title")
 -->
-<--Currently studying math, physics and data science-->
+<!--
+Currently studying math, physics and data science
+-->
 
 <!--
 **ricardo-chavez-torres/ricardo-chavez-torres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
